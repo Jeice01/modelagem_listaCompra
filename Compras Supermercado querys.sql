@@ -34,7 +34,7 @@ ALTER TABLE "Consumidor" ALTER COLUMN "cons_ID" SET DEFAULT nextval('consumidor_
 
 INSERT INTO "Consumidor" ("cons_Nome", "cons_CPF", "cons_DataNascimento", "cons_Endereco", "cons_Municipio", "cons_UF", "cons_CEP", "cons_Email", "cons_Telefone")
 VALUES
-	('Jeice Santos', 09069009722, '1983-01-26','qn 31 cj 05','Riacho Fundo II', 'DF', 71880715,'@gmail', 61996360647);
+	('Nome Santos', 00000000000, '1980-10-20','qn 31 cj 05','Brasília', 'DF', 0000000,'@gmail', 610000000);
 
 ALTER TABLE "Consumidor"
 ALTER COLUMN "cons_Email" TYPE varchar(255);
