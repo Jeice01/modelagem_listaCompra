@@ -52,7 +52,7 @@ ALTER TABLE "Consumidor" ALTER COLUMN "cons_Email" TYPE varchar(255);
 
 -- Atualização do email do consumidor
 UPDATE "Consumidor"
-SET "cons_Email" = 'jeice.santos@gmail.com'
+SET "cons_Email" = 'meuemail@gmail.com'
 WHERE "cons_ID" = 1;
 
 -- Inicialização da sequência para supe_ID
