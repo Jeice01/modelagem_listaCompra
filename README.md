@@ -3,6 +3,7 @@
 ## Introdução
 
 Este repositório contém um modelo de dados para uma lista de compras pessoal. O objetivo deste projeto é fornecer uma estrutura sólida e flexível para gerenciar e organizar itens de compras de forma eficiente.
+Para fazer a consulta da modelagem: https://dbdiagram.io/d/Compras-Supermercado-652be7e4ffbf5169f0b62d5e
 
 ## Estrutura do Banco de Dados
 
